@@ -21,13 +21,15 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Education
-- **Ph.D. (in progress)** — Measurement & Statistics, Florida State University  
-- *(추가 학력 있으면 순서대로 적기)*
+- Ph.D., Measurement & Statistics, Florida State University, 2020 - Present.   
+- M.S., Measurement & Statistics, Florida State University, 2020 - 2023.
+- M.S., Education (Educational Psychology), Ewha Womans University, 2015 - 2018.
+- B.A., Education & Psychology, Ewha Womans University, 2011 - 2015. 
 
 ---
 
 ## Honors & Awards
-- *(예: Best Graduate Student Poster, FERA 2022 — 간단 설명)*
+- Best Graduate Student Poster, FERA 2022
 
 ---
 
