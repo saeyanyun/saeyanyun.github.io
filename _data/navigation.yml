@@ -1,11 +1,8 @@
 main:
-  - title: "About"
+  - title: "Home"
     url: /about/
-  - title: "Publications"
+  - title: "Publications/Conferences"
     url: /publications/
-  - title: "Talks"
+  - title: "Side Projects"
     url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Blog"
-    url: /year-archive/
+
