@@ -28,34 +28,31 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ---
 
-## Honors & Awards
-- Best Graduate Student Poster:
-Yun, S., (2022, November). Application of K-modes clustering to meta-analysis data. Poster presentation at Florida Educational Research Association (FERA) Annual Conference, Daytona Beach, FL, United States.
-
----
-
 ## Professional Experience
 - **Psychometric Intern** | Florida Department of Education (FLDOE) | *May 2022 - present*
   •	Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.
-  •	Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making. 
+  •	Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.
+- **Research Assistant** | Korean Educational Development Institute (KEDI) | *June 2018 - July 2018*
+  •	Conducted a 1% sampling design from all national schools to improve school culture in South Korea, resulting in comprehensive data collection from a representative sample.
+  •	Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates. 
 
 ---
 
 ## Publications
 († co-first author)
-- Na, H., & Yun, S†.(2024). The effect of augmented reality on K-12 students’ motivation: A meta-analysis. Educational Technology Research and Development, 1-32. 
-- Choi, H., & Yun, S†.(2024). Digital Distraction on Academic Performance: An HLM Study on K-12 Learners. The Journal of Applied Instructional Design, 13(2), 49-55.
+- Na, H., & Yun, S†.(2024). The effect of augmented reality on K-12 students’ motivation: A meta-analysis. _Educational Technology Research and Development_, 1-32. 
+- Choi, H., & Yun, S†.(2024). Digital Distraction on Academic Performance: An HLM Study on K-12 Learners. _The Journal of Applied Instructional Design_, 13(2), 49-55.
 
 ---
 
 ## Conferences / Talks 
-1.	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April). Evaluating intersectional DIF via logistic regression: A simulation study. Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.
-2.	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). Intersectional DIF in imbalanced samples: A simulation study. Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.
-3.	Na, H., & Yun, S.†, (2023, October). Can AR promote K-12 students’ motivation? A meta-analysis. Paper presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
-4.	Choi., & Yun, S.†, (2023, October). Digital distraction on academic performance in self-paced online learning: An HLM study. Poster presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
-5.	Yun, S., Na, H. (2023, April). The effect of Augmented Reality on K-12 students’ motivation: A meta-analysis. Poster presentation at American Educational Research Association (AERA), Chicago, IL, United States.
-6.	Yun, S.†, (2022, November). Application of K-modes clustering to meta-analysis data. Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.
-7.	Yun, S., Shin, T. (2019, April). The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis. Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
+1.	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.
+2.	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.
+3.	Na, H., & Yun, S.†, (2023, October). _Can AR promote K-12 students’ motivation? A meta-analysis._ Paper presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
+4.	Choi., & Yun, S.†, (2023, October). _Digital distraction on academic performance in self-paced online learning: An HLM study._ Poster presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
+5.	Yun, S., Na, H. (2023, April). _The effect of Augmented Reality on K-12 students’ motivation: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Chicago, IL, United States.
+6.	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.
+7.	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
 
 Invited Talks
 1.	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by Yun, S. for K-modes clustering analyses)
@@ -63,41 +60,21 @@ Invited Talks
 ---
 
 ## Additional ML Projects (selected)
-1. Loan Approval Prediction | Python, Scikit-learn, PyTorch	  				    Sep 2024 – Oct 2024
-•	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending. 
-2. Plant Pathology High-Dimensional Data					 	 	                        Oct 2022 – Dec 2022
-•	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
-3. Prediction of the causes of Alzheimer’s disease 					          	    Sep 2022 – Oct 2022
-•	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.
-
-<h2>Additional ML Projects (selected)</h2>
-
 <p>
-<b>1. Loan Approval Prediction</b> | Python, Scikit-learn, PyTorch  
-<span style="float:right;">Sep 2024 – Oct 2024</span><br>
-<span style="margin-left:20px;">• Achieved 96% ROC-AUC by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted blending.</span>
-</p>
-
+<b>1. Loan Approval Prediction</b> | Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
+  •	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending. 
 <p>
-<b>2. Plant Pathology High-Dimensional Data</b> | CNN, Deep Learning  
-<span style="float:right;">Oct 2022 – Dec 2022</span><br>
-<span style="margin-left:20px;">• Improved CNN accuracy by 18% through dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.</span>
-</p>
-
-<p>
-<b>3. Prediction of Alzheimer’s Disease Causes</b> | Neuroimaging, ML  
-<span style="float:right;">Sep 2022 – Oct 2022</span><br>
-<span style="margin-left:20px;">• Identified key brain biomarkers for Alzheimer’s diagnosis using RF, SVM, PCA, k-means, and NMF; hippocampal volume emerged as a top predictor.</span>
-</p>
+<b>2. Plant Pathology High-Dimensional Data</b> | Python, Scikit-learn, PyTorch, Tensorflow, Kera (Oct 2022 – Dec 2022)  
+  •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
+<b>3. Prediction of Alzheimer’s Disease Causes</b> | Python, Scikit-learn  (Sep 2022 – Oct 2022)  
+  •	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.
 
 
 ---
 
-## Service
-- Served as a reviewer
-  • Research Quarterly for Exercise and Sport: 1 assignment
-  •	Psychology in the Schools: 1 assignment
-  •	Florida Educational Research Association (FERA): 4 assignments
+## Honors & Awards
+- Best Graduate Student Poster:
+Yun, S., (2022, November). Application of K-modes clustering to meta-analysis data. Poster presentation at Florida Educational Research Association (FERA) Annual Conference, Daytona Beach, FL, United States.
 
 ---
 
@@ -106,12 +83,23 @@ Invited Talks
 Graduate Teaching Assistant of EDF 5400: Descriptive/Inferential Statistics (Aug 2021 – Dec 2021)
 Graduate Teaching Assistant of EDF 5402: Advanced Topics in ANOVA	(Jan 2022 - May 2022)
 
-**Ewha Womans University	**						     
+**Ewha Womans University**						     
 Undergraduate Teaching Assistant of Educational Psychology (Sep 2017 – Dec 2017)
 Undergraduate Teaching Assistant of Motivation to Learn	(Sep 2017 – Dec 2017)
 Undergraduate Teaching Assistant of Global Education Leadership	(Mar 2016 – Jun 2016)
 Graduate Teaching Assistant of the Economics and Finance of Education	(Mar 2016 – Jun 2016)
 
+---
+
+
+## Service
+- Served as a reviewer
+  • Research Quarterly for Exercise and Sport: 1 assignment (~ing) 
+  •	Psychology in the Schools: 1 assignment
+  •	Florida Educational Research Association (FERA): 4 assignments
+
+
+---
 
 ## Contact
 - syun@fsu.edu · saeyan.yun.ds@gmail.com · [GitHub](https://github.com/saeyanyun) · [LinkedIn](https://www.linkedin.com/in/saeyanyun)
