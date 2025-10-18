@@ -21,28 +21,28 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Education
-- Ph.D., Measurement & Statistics, Florida State University, 2020 - Present.   
+- Ph.D., Measurement & Statistics (Minor in Statistics), Florida State University, 2020 - Present.   
 - M.S., Measurement & Statistics, Florida State University, 2020 - 2023.
-- M.S., Education (Educational Psychology), Ewha Womans University, 2015 - 2018.
-- B.A., Education & Psychology, Ewha Womans University, 2011 - 2015. 
+- M.A., Education (Educational Psychology), Ewha Womans University, 2015 - 2018.
+- B.A., Education (Minor in Psychology), Ewha Womans University, 2011 - 2015. 
 
 ---
 
 ## Honors & Awards
-- Best Graduate Student Poster, FERA 2022
+- Best Graduate Student Poster
+Yun, S., (2022, November). Application of K-modes clustering to meta-analysis data. Poster presentation at Florida Educational Research Association (FERA) Annual Conference, Daytona Beach, FL, United States.
 
 ---
 
 ## Professional Experience
-- **Psychometric Intern**, Florida Department of Education (FLDOE) — *(기간)*  
-- *(기타 경력 — 기관, 역할, 간단 한 줄 설명)*
-
+- **Psychometric Intern**, Florida Department of Education (FLDOE) — *May 2022 - present*  
+- 
 ---
 
-## Publications (selected)
-- Na, H., & **Yun, S.** (2024). *The effect of augmented reality on K–12 students’ motivation: A meta-analysis*. **ETR&D**.  
-- Choi, H., & **Yun, S.** (2024). *Digital Distraction on Academic Performance: An HLM Study on K–12 Learners*. **JAID, 13(2), 49–55**.  
-*(원하면 각 항목에 링크도 추가 가능: `[paper]()` / `[code]()` / `[slides]()`)*
+## Publications
+(† co-first author)
+- Na, H., & Yun, S†.(2024). The effect of augmented reality on K-12 students’ motivation: A meta-analysis. Educational Technology Research and Development, 1-32. 
+- Choi, H., & Yun, S†.(2024). Digital Distraction on Academic Performance: An HLM Study on K-12 Learners. The Journal of Applied Instructional Design, 13(2), 49-55.
 
 ---
 
