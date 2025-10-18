@@ -30,11 +30,11 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Professional Experience
 - **Psychometric Intern** | Florida Department of Education (FLDOE) | *May 2022 - present*
-  •	Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.
-  •	Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.
+- •	Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.
+- •	Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.
 - **Research Assistant** | Korean Educational Development Institute (KEDI) | *June 2018 - July 2018*
-  •	Conducted a 1% sampling design from all national schools to improve school culture in South Korea, resulting in comprehensive data collection from a representative sample.
-  •	Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates. 
+- •	Conducted a 1% sampling design from all national schools to improve school culture in South Korea, resulting in comprehensive data collection from a representative sample.
+- •	Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates. 
 
 ---
 
