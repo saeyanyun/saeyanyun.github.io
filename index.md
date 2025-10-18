@@ -105,5 +105,5 @@ Graduate Teaching Assistant of *Economics and Finance of Education* (Mar 2016 �
 
 ## Contact
 
-📧 syun@fsu.edu · saeyan.yun.ds@gmail.com  
+📧 syun2@fsu.edu · saeyan.yun.ds@gmail.com  
 🔗 [GitHub](https://github.com/saeyanyun) · [LinkedIn](https://www.linkedin.com/in/saeyanyun)
