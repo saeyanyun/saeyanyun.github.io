@@ -54,8 +54,8 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 6.	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.
 7.	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
 
-Invited Talks
-1.	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by Yun, S. for K-modes clustering analyses)
+**Invited Talks**
+1.	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (**assisted by Yun, S. for K-modes clustering analyses**)
 
 ---
 
@@ -66,9 +66,9 @@ Invited Talks
 <p>
 <b>2. Plant Pathology High-Dimensional Data</b> | Python, Scikit-learn, PyTorch, Tensorflow, Kera (Oct 2022 – Dec 2022)  
   •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
+<p>
 <b>3. Prediction of Alzheimer’s Disease Causes</b> | Python, Scikit-learn  (Sep 2022 – Oct 2022)  
   •	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.
-
 
 ---
 
@@ -90,7 +90,6 @@ Undergraduate Teaching Assistant of Global Education Leadership	(Mar 2016 – Ju
 Graduate Teaching Assistant of the Economics and Finance of Education	(Mar 2016 – Jun 2016)
 
 ---
-
 
 ## Service
 - Served as a reviewer
