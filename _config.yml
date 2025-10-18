@@ -1,19 +1,37 @@
 author:
   name: "Saeyan Yun"
-  avatar: "/images/bio-photo.jpg"
+  avatar: "/images/bio-photo.png"
   bio: "Ph.D. Candidate in Measurement & Statistics at FSU."
   links:
     - label: "Email"
-      icon: "fas fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:saeyan.yun.ds@gmail.com"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=PzE6WAgAAAAJ"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/saeyanyun"
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/saeyanyun"
+
+owner:
+  name: "Saeyan Yun"
+  avatar: "/images/bio-photo.png"
+  bio: "Ph.D. Candidate in Measurement & Statistics at FSU."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:saeyan.yun.ds@gmail.com"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=PzE6WAgAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/saeyanyun"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/saeyanyun"
 
 include:
