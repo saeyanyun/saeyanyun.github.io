@@ -72,12 +72,22 @@ Invited Talks
 ---
 
 ## Service
-- *(예: Reviewer, Conference volunteer, Student org role 등)*
+- Served as a reviewer
+  •	Psychology in the Schools: 1 assignment
+  •	Florida Educational Research Association (FERA): 4 assignments
 
 ---
 
 ## Teaching
-- *(예: Reviewer, Conference volunteer, Student org role 등)*
+**Florida State University**							            
+Graduate Teaching Assistant of EDF 5400: Descriptive/Inferential Statistics (Aug 2021 – Dec 2021)
+Graduate Teaching Assistant of EDF 5402: Advanced Topics in ANOVA	(Jan 2022 - May 2022)
+
+**Ewha Womans University	**						     
+Undergraduate Teaching Assistant of Educational Psychology (Sep 2017 – Dec 2017)
+Undergraduate Teaching Assistant of Motivation to Learn	(Sep 2017 – Dec 2017)
+Undergraduate Teaching Assistant of Global Education Leadership	(Mar 2016 – Jun 2016)
+Graduate Teaching Assistant of the Economics and Finance of Education	(Mar 2016 – Jun 2016)
 
 
 ## Contact
