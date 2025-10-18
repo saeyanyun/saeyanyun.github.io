@@ -36,7 +36,6 @@ Yun, S., (2022, November). Application of K-modes clustering to meta-analysis da
 
 ## Professional Experience
 - **Psychometric Intern** | Florida Department of Education (FLDOE) | *May 2022 - present*
-  
   •	Ensured test accuracy by replicating and validating large-scale state assessment analyses for students in FL, collaborating with psychometricians from 4 different testing firms and the stakeholders.
   •	Supported a non-technical audience (content team) to help make decisions. 
 
