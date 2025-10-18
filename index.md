@@ -5,17 +5,18 @@ author_profile: true
 permalink: /
 ---
 
-Hi, I'm **Saeyan Yun**.  
-I am a **Ph.D. candidate in Measurement and Statistics** at Florida State University (FSU). I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/citations?user=brgMxQwAAAAJ&hl=en&oi=ao) and [Dr. Qian (Jackie) Zhang](https://scholar.google.com/citations?user=3Op7FwQAAAAJ&hl=en). I also work as an intern in the **Psychometric Team at the Florida Department of Education (FLDOE)** under a contract with FSU and FLDOE.  
+## About me
+
+Hi, I'm Saeyan Yun. I am a Ph.D. candidate in Measurement and Statistics at Florida State University (FSU). 
+
+I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/citations?user=brgMxQwAAAAJ&hl=en&oi=ao) and [Dr. Qian (Jackie) Zhang](https://scholar.google.com/citations?user=3Op7FwQAAAAJ&hl=en). I also work as an intern in the Psychometric Team at the Florida Department of Education (FLDOE) under a contract with FSU and FLDOE.  
 
 ---
 
 ## Research Interests
-- Bayesian modeling & hierarchical analysis  
-- Causal inference & simulation studies  
-- Psychometric methods for educational assessment  
-- Multilevel / SEM  
-- ML applications in measurement & survey analytics
+1. Applying machine learning techniques and a Bayesian approach to overcome the limitations of traditional meta-analysis. 
+2. Developing a unified model for detecting bias in the measurement context. 
+3. Collaborating with applied researchers to understand students' behaviors in an online learning setting ([Augmented Reality](http://https://link.springer.com/article/10.1007/s11423-024-10385-7) and [Digital Distraction](https://scholarworks.bgsu.edu/engineering_pub/2/). 
 
 ---
 
