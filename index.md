@@ -60,8 +60,14 @@ Invited Talks
 
 ---
 
-## Additional Projects
-- *(예: Reviewer, Conference volunteer, Student org role 등)*
+## Additional ML Projects (selected)
+1. Loan Approval Prediction | Python, Scikit-learn, PyTorch	  				    Sep 2024 – Oct 2024
+•	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending. 
+2. Plant Pathology High-Dimensional Data					 	 	                        Oct 2022 – Dec 2022
+•	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
+3. Prediction of the causes of Alzheimer’s disease 					          	    Sep 2022 – Oct 2022
+•	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor. 
+
 
 ---
 
