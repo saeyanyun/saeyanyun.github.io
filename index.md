@@ -15,7 +15,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Research Interests
 1. Applying machine learning techniques and Bayesian methods to overcome the limitations of traditional meta-analysis (ongoing dissertation project). 
-2. Developing a unified model for detecting bias in the measurement context. 
+2. Developing advanced models for detecting bias in the measurement context. 
 3. Collaborating with applied researchers to understand students' behaviors in an online learning setting ([Augmented Reality](http://https://link.springer.com/article/10.1007/s11423-024-10385-7) and [Digital Distraction](https://scholarworks.bgsu.edu/engineering_pub/2/)). 
 
 ---
@@ -36,8 +36,8 @@ Yun, S., (2022, November). Application of K-modes clustering to meta-analysis da
 
 ## Professional Experience
 - **Psychometric Intern** | Florida Department of Education (FLDOE) | *May 2022 - present*
-  •	Ensured test accuracy by replicating and validating large-scale state assessment analyses for students in FL, collaborating with psychometricians from 4 different testing firms and the stakeholders.
-  •	Supported a non-technical audience (content team) to help make decisions. 
+  •	Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.
+  •	Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making. 
 
 ---
 
@@ -68,13 +68,34 @@ Invited Talks
 2. Plant Pathology High-Dimensional Data					 	 	                        Oct 2022 – Dec 2022
 •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
 3. Prediction of the causes of Alzheimer’s disease 					          	    Sep 2022 – Oct 2022
-•	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor. 
+•	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.
+
+<h2>Additional ML Projects (selected)</h2>
+
+<p>
+<b>1. Loan Approval Prediction</b> | Python, Scikit-learn, PyTorch  
+<span style="float:right;">Sep 2024 – Oct 2024</span><br>
+<span style="margin-left:20px;">• Achieved 96% ROC-AUC by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted blending.</span>
+</p>
+
+<p>
+<b>2. Plant Pathology High-Dimensional Data</b> | CNN, Deep Learning  
+<span style="float:right;">Oct 2022 – Dec 2022</span><br>
+<span style="margin-left:20px;">• Improved CNN accuracy by 18% through dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.</span>
+</p>
+
+<p>
+<b>3. Prediction of Alzheimer’s Disease Causes</b> | Neuroimaging, ML  
+<span style="float:right;">Sep 2022 – Oct 2022</span><br>
+<span style="margin-left:20px;">• Identified key brain biomarkers for Alzheimer’s diagnosis using RF, SVM, PCA, k-means, and NMF; hippocampal volume emerged as a top predictor.</span>
+</p>
 
 
 ---
 
 ## Service
 - Served as a reviewer
+  • Research Quarterly for Exercise and Sport: 1 assignment
   •	Psychology in the Schools: 1 assignment
   •	Florida Educational Research Association (FERA): 4 assignments
 
