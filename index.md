@@ -54,8 +54,8 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
  •	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.  
  •	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
 
-**Invited Talks**
- •	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
+**Invited Talks**  
+•	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
 
 ---
 
