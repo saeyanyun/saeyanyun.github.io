@@ -29,7 +29,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Honors & Awards
-- Best Graduate Student Poster
+- Best Graduate Student Poster:
 Yun, S., (2022, November). Application of K-modes clustering to meta-analysis data. Poster presentation at Florida Educational Research Association (FERA) Annual Conference, Daytona Beach, FL, United States.
 
 ---
