@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## Additional ML Projects (selected)
+## Additional ML Projects
 
 **1. Loan Approval Prediction** | Python, Scikit-learn, PyTorch *(Sep 2024 – Oct 2024)*  
 • Achieved a 96% ROC-AUC by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending.  
