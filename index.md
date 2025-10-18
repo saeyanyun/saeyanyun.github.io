@@ -32,11 +32,11 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 - **Psychometric Intern** | Florida Department of Education (FLDOE) | *May 2022 - present*
   •	Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.
   •	Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.
-  
+
 - **Research Assistant** | Korean Educational Development Institute (KEDI) | *June 2018 - July 2018*
   •	Conducted a 1% sampling design from all national schools to improve school culture in South Korea, resulting in comprehensive data collection from a representative sample.
   •	Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates. 
-
+  
 ---
 
 ## Publications
@@ -48,11 +48,17 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Conferences / Talks  
  •	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  
+ 
  •	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.  
+ 
  •	Na, H., & Yun, S.†, (2023, October). _Can AR promote K-12 students’ motivation? A meta-analysis._ Paper presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.  
+ 
  •	Choi., & Yun, S.†, (2023, October). _Digital distraction on academic performance in self-paced online learning: An HLM study._ Poster presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.  
+ 
  •	Yun, S., Na, H. (2023, April). _The effect of Augmented Reality on K-12 students’ motivation: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Chicago, IL, United States.  
+ 
  •	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.  
+ 
  •	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
 
 **Invited Talks**  
