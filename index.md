@@ -45,30 +45,30 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ---
 
-## Conferences / Talks 
-1.	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.
-2.	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.
-3.	Na, H., & Yun, S.†, (2023, October). _Can AR promote K-12 students’ motivation? A meta-analysis._ Paper presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
-4.	Choi., & Yun, S.†, (2023, October). _Digital distraction on academic performance in self-paced online learning: An HLM study._ Poster presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
-5.	Yun, S., Na, H. (2023, April). _The effect of Augmented Reality on K-12 students’ motivation: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Chicago, IL, United States.
-6.	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.
-7.	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
+## Conferences / Talks  
+ •	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.
+ •	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.
+ •	Na, H., & Yun, S.†, (2023, October). _Can AR promote K-12 students’ motivation? A meta-analysis._ Paper presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
+ •	Choi., & Yun, S.†, (2023, October). _Digital distraction on academic performance in self-paced online learning: An HLM study._ Poster presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.
+ •	Yun, S., Na, H. (2023, April). _The effect of Augmented Reality on K-12 students’ motivation: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Chicago, IL, United States.
+ •	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.
+ •	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
 
 **Invited Talks**
-1.	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
+ •	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
 
 ---
 
 ## Additional ML Projects (selected)
 
-1. Loan Approval Prediction | Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
-• Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending.  
+- Loan Approval Prediction | Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
+  •	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending.  
 
-2. Plant Pathology High-Dimensional Data | Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
-• Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
+- Plant Pathology High-Dimensional Data | Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
+  •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
 
-3. Prediction of Alzheimer’s Disease Causes | Python, Scikit-learn (Sep 2022 – Oct 2022)  
-• Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.  
+- Prediction of Alzheimer’s Disease Causes | Python, Scikit-learn (Sep 2022 – Oct 2022)  
+  •	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.  
 
 ---
 
