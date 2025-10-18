@@ -1,8 +1,8 @@
 main:
   - title: "Home"
-    url: /about/
-  - title: "Publications/Conferences"
-    url: /publications/
-  - title: "Side Projects"
-    url: /talks/
+    url: /
+  - title: "Publications / Conferences"
+    url: /pubs/
+  - title: "Projects"
+    url: /projects/
 
