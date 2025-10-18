@@ -1,6 +1,6 @@
 author:
   name: "Saeyan Yun"
-  avatar: "images/profile.png"
+  avatar: "/images/profile.png"
   bio: "Ph.D. Candidate in Measurement & Statistics."
   links:
     - label: "Email"
