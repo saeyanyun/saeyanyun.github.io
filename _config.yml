@@ -1,26 +1,18 @@
-title: "Saeyan Yun"
-email: "saeyan.yun.ds@gmail.com"
-description: "NLP · Large Language Models · Measurement & Statistics"
-url: "https://saeyanyun.github.io"
-baseurl: ""
-locale: "en"
-timezone: "America/New_York"
-
 author:
   name: "Saeyan Yun"
   avatar: "images/profile.jpg"
-  bio: "Ph.D. candidate in Measurement & Statistics. ML, Bayesian modeling, causal inference, multilevel analysis, survey analytics."
+  bio: "Ph.D. Candidate in Measurement & Statistics."
   links:
-    - label: Email
+    - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:saeyan.yun.ds@gmail.com"
-    - label: Google Scholar
+    - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=PzE6WAgAAAAJ"
-    - label: LinkedIn
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/saeyanyun"
-    - label: GitHub
+    - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/saeyanyun"
 
