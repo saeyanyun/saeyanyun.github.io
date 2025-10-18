@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: single
 title: "Saeyan Yun"
 author_profile: true
+permalink: /
 ---
 
 Hi, I'm **Saeyan Yun**.  
