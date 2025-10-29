@@ -32,10 +32,13 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 - **Psychometric Intern** - Florida Department of Education (FLDOE), May 2022 – present
   - Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.  
   - Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.
+(This internship is part of a graduate assistantship under a contract between Florida State University and the Florida Department of Education.)
 
 - **Research Assistant** - Korean Educational Development Institute (KEDI), June 2018 – July 2018
   - Conducted a 1% sampling design from all national schools to improve school culture in South Korea, resulting in comprehensive data collection from a representative sample.  
   - Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates.
+(Completed a one-month research contract at the Korean Educational Development Institute (KEDI).)
+
   
 ---
 
@@ -46,20 +49,19 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ---
 
-## Conferences / Talks  
- •	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  
+## Selected Conferences / Talks  
+ •	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  <br>
+   •	Suggested a unified multivariate Logistic Regression (LR) model to detect intersectional DIF.  <br>
+   •	Imbalanced sample-size patterns and number of DIF items had little impact on bias detection, given the same ability distributions, and varied ability distributions had a major impact on detection, given the same sample-size patterns and number of DIF items. 
  
- •	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.  
+ •	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.  <br>
+   •	Applied a unified multivariate Logistic Regression (LR) model to detect intersectional DIF, which make able to the LR model to predict the probability of correct item responses due to DIF across all examinees and DIF cases.  <br>
+   •	Power for detecting DIF tended to increase as the total sample size and/or the DIF magnitude increased. DIF-detection rates decreased as the sample-size ratio got more extreme.  
  
- •	Na, H., & Yun, S.†, (2023, October). _Can AR promote K-12 students’ motivation? A meta-analysis._ Paper presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.  
+ •	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.  <br>
+   • Applied K-modes clustering, an unsupervised learning method, to examine how individual studies in meta-analysis datasets group together based on their categorical study features.  <br>
+   • Results showed that studies sharing similar features were consistently grouped into 5 and 10 clusters based on the elbow curve, helping researchers to identify patterns of replicability in research.  
  
- •	Choi., & Yun, S.†, (2023, October). _Digital distraction on academic performance in self-paced online learning: An HLM study._ Poster presentation at Association for Educational Communications and Technology (AECT) 2023 International Convention, Orlando, FL, United States.  
- 
- •	Yun, S., Na, H. (2023, April). _The effect of Augmented Reality on K-12 students’ motivation: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Chicago, IL, United States.  
- 
- •	Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.  
- 
- •	Yun, S., Shin, T. (2019, April). _The effect of school violence prevention programs on Social Emotional Learning (SEL) competencies in South Korea: A meta-analysis._ Poster presentation at American Educational Research Association (AERA), Toronto, Canada.
 
 **Invited Talks**  
 •	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
@@ -68,10 +70,10 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Additional ML Projects (selected)
 
-- **Loan Approval Prediction** | Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
+- **Loan Approval Prediction** | ([Code](https://github.com/saeyanyun/loan.approval.pred.saeyan) |Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
   •	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending.  
 
-- **Plant Pathology High-Dimensional Data** | Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
+- **Plant Pathology High-Dimensional Data** | ([Code](https://github.com/saeyanyun/plant.pathology.saeyan) |Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
   •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
 
 - **Prediction of Alzheimer’s Disease Causes** | Python, Scikit-learn (Sep 2022 – Oct 2022)  
