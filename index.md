@@ -54,16 +54,16 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
   - Suggested a unified multivariate Logistic Regression (LR) model to detect intersectional DIF.  <br> 
   - Imbalanced sample-size patterns and number of DIF items had little impact on bias detection, given the same ability distributions, and varied ability distributions had a major impact on detection, given the same sample-size patterns and number of DIF items.  <br>
 
- - Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.  <br>
+- Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.  <br>
   - Applied a unified multivariate Logistic Regression (LR) model to detect intersectional DIF, which make able to the LR model to predict the probability of correct item responses due to DIF across all examinees and DIF cases.  <br>
   - Power for detecting DIF tended to increase as the total sample size and/or the DIF magnitude increased. DIF-detection rates decreased as the sample-size ratio got more extreme.
 
- - Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.  <br>
+- Yun, S.†, (2022, November). _Application of K-modes clustering to meta-analysis data._ Poster presentation at Florida Educational Research Association, Daytona Beach, FL, United States.  <br>
   - Applied K-modes clustering, an unsupervised learning method, to examine how individual studies in meta-analysis datasets group together based on their categorical study features.  <br>
   - Results showed that studies sharing similar features were consistently grouped into 5 and 10 clusters based on the elbow curve, helping researchers to identify patterns of replicability in research.  
 
 **Invited Talks**  
-•	Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
+- Becker, B. J. (2023, July). Replications in meta-analysis: Can we find them? Do we need them?, Society for Research Synthesis Methodology (SRSM), Paris, France. (assisted by **Yun, S.** for K-modes clustering analyses)
 
 ---
 
