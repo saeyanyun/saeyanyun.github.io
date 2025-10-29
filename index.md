@@ -55,7 +55,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Selected Conferences / Talks  
-- Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April). _ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  <br>
+- Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April). _Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  <br>
   - Suggested a unified multivariate Logistic Regression (LR) model to detect intersectional DIF.  <br> 
   - Imbalanced sample-size patterns and number of DIF items had little impact on bias detection, given the same ability distributions, and varied ability distributions had a major impact on detection, given the same sample-size patterns and number of DIF items.  <br>
 
