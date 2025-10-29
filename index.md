@@ -50,9 +50,9 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Selected Conferences / Talks  
- -	Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  <br>
-   -	Suggested a unified multivariate Logistic Regression (LR) model to detect intersectional DIF.  <br>
-   -	Imbalanced sample-size patterns and number of DIF items had little impact on bias detection, given the same ability distributions, and varied ability distributions had a major impact on detection, given the same sample-size patterns and number of DIF items. 
+- Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April)._ Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  <br>
+  - Suggested a unified multivariate Logistic Regression (LR) model to detect intersectional DIF.  <br> 
+  - Imbalanced sample-size patterns and number of DIF items had little impact on bias detection, given the same ability distributions, and varied ability distributions had a major impact on detection, given the same sample-size patterns and number of DIF items.  <br>
  
  -	Yun, S., Li, W., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2024, November). _Intersectional DIF in imbalanced samples: A simulation study._ Paper presentation at Florida Education Research Association (FERA), Orlando, FL, United States.  <br>
    -	Applied a unified multivariate Logistic Regression (LR) model to detect intersectional DIF, which make able to the LR model to predict the probability of correct item responses due to DIF across all examinees and DIF cases.  <br>
