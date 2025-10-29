@@ -16,7 +16,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ## Research Interests
 1. Applying machine learning techniques and Bayesian methods to overcome the limitations of traditional meta-analysis (ongoing dissertation project). 
 2. Developing advanced models for detecting bias in the measurement context. 
-3. Collaborating with applied researchers to understand students' behaviors in an online learning setting ([Augmented Reality](http://https://link.springer.com/article/10.1007/s11423-024-10385-7) and [Digital Distraction](https://scholarworks.bgsu.edu/engineering_pub/2/)). 
+3. Collaborating with applied researchers to understand students' behaviors in an online learning setting ([Augmented Reality](https://link.springer.com/article/10.1007/s11423-024-10385-7) and [Digital Distraction](https://scholarworks.bgsu.edu/engineering_pub/2/)). 
 
 ---
 
