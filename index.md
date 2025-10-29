@@ -31,12 +31,12 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ## Professional Experience
 - **Psychometric Intern** - Florida Department of Education (FLDOE), May 2022 – present
   - Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.  
-  - Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.
+  - Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.   <br>
 (This internship is part of a graduate assistantship under a contract between Florida State University and the Florida Department of Education.)
 
 - **Research Assistant** - Korean Educational Development Institute (KEDI), June 2018 – July 2018
   - Conducted a 1% sampling design from all national schools to improve school culture in South Korea, resulting in comprehensive data collection from a representative sample.  
-  - Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates.
+  - Developed and distributed surveys via SurveyMonkey, and communicated with stakeholders to encourage participation and increase survey response rates.   <br>
 (Completed a one-month research contract at the Korean Educational Development Institute (KEDI).)
 
   
@@ -70,10 +70,10 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Additional ML Projects (selected)
 
-- **Loan Approval Prediction** | ([Code](https://github.com/saeyanyun/loan.approval.pred.saeyan) |Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
+- **Loan Approval Prediction** | [Code](https://github.com/saeyanyun/loan.approval.pred.saeyan) |Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
   •	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending.  
 
-- **Plant Pathology High-Dimensional Data** | ([Code](https://github.com/saeyanyun/plant.pathology.saeyan) |Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
+- **Plant Pathology High-Dimensional Data** | [Code](https://github.com/saeyanyun/plant.pathology.saeyan) |Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
   •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
 
 - **Prediction of Alzheimer’s Disease Causes** | Python, Scikit-learn (Sep 2022 – Oct 2022)  
