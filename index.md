@@ -72,7 +72,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ---
 
-## Additional ML Projects (selected)
+## Selected Additional ML Projects
 
 - **Loan Approval Prediction** | [Code](https://github.com/saeyanyun/loan.approval.pred.saeyan) | Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
   •	Achieved a 96% accuracy (ROC-AUC) by developing and tuning ensemble models (XGBoost, LightGBM, CATBoost) and neural networks using Optuna optimization and weighted model blending.  
