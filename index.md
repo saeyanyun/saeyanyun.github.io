@@ -44,12 +44,13 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Publications
 († co-first author)
-- Na, H., & Yun, S†.(2024). The effect of augmented reality on K-12 students’ motivation: A meta-analysis. _Educational Technology Research and Development_, 1-32.
-  •	Examined the effect of augmented reality (AR) interventions on K-12 students’ motivation by statistically integrating the effect sizes of 141 studies from 45 primary studies (n = 3,303).  <br>
-  •	The treatment group with AR interventions showed higher motivation than the control group (ES = 0.8). In particular, AR type (Q = 4.36) and collaborative learning (Q = 8.40) were significant moderators to explain between-studies variance. 
+- Na, H., & Yun, S†.(2024). The effect of augmented reality on K-12 students’ motivation: A meta-analysis. _Educational Technology Research and Development_, 1-32.  <br>
+  - Examined the effect of augmented reality (AR) interventions on K-12 students’ motivation by statistically integrating the effect sizes of 141 studies from 45 primary studies (n = 3,303).  <br>
+  - The treatment group with AR interventions showed higher motivation than the control group (ES = 0.8). In particular, AR type (Q = 4.36) and collaborative learning (Q = 8.40) were significant moderators to explain between-studies variance.   <br>
+  
 - Choi, H., & Yun, S†.(2024). Digital Distraction on Academic Performance: An HLM Study on K-12 Learners. _The Journal of Applied Instructional Design_, 13(2), 49-55.
-  •	Analyzed data from 11,237 students across 95 online courses using hierarchical linear modeling (HLM).  <br>
-  •	Level 1 analysis indicated that digital distractions had a significant negative effect on student performance (β = -1.81, p < .001). Female students performed better than males (β = 1.73, p < .001), while average student age did not moderate this effect. 
+  - Analyzed data from 11,237 students across 95 online courses using hierarchical linear modeling (HLM).  <br>
+  - Level 1 analysis indicated that digital distractions had a significant negative effect on student performance (β = -1.81, p < .001). Female students performed better than males (β = 1.73, p < .001), while average student age did not moderate this effect. 
 
 ---
 
