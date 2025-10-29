@@ -21,7 +21,7 @@ author_profile: true
 **4. Prediction of Alzheimer’s Disease Causes** | Python, Scikit-learn *(Sep 2022 – Oct 2022)*  
 • Identified key brain biomarkers for Alzheimer’s diagnosis using RF, SVM, PCA, k-means, and NMF on neuroimaging data; hippocampal volume emerged as a top predictor.
 
-**5. Missing Data Analysis using Gun Death Data** | Python, Seaborn, Matplotlib, missigno *(Oct 2022 – Dec 2022)*  
+**5. Missing Data Analysis using Gun Death Data** | [Code](https://github.com/saeyanyun/saeyan.missing.data.gun/tree/main) | Python, Seaborn, Matplotlib, missigno *(Oct 2022 – Dec 2022)*  
 • Compared the simple imputation and multiple imputation under the multivariate regression model. 
 
 
