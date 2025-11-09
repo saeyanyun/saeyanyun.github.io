@@ -110,7 +110,7 @@ Graduate Teaching Assistant of Economics and Finance of Education (Mar 2016 – 
 ## Service
 
 - Served as Reviewer  
-  • Research Quarterly for Exercise and Sport — 1 assignment (ongoing)  
+  • Research Quarterly for Exercise and Sport — 1 assignment  
   • Psychology in the Schools — 1 assignment  
   • Florida Educational Research Association (FERA) — 4 assignments  
 
