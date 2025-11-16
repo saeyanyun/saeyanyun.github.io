@@ -82,8 +82,6 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 - **Plant Pathology High-Dimensional Data** | [Code](https://github.com/saeyanyun/plant.pathology.saeyan) | Python, Scikit-learn, PyTorch, TensorFlow, Keras (Oct 2022 – Dec 2022)  
   •	Improved CNN accuracy by 18% by applying dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification.  
 
-- **Prediction of Alzheimer’s Disease Causes** | Python, Scikit-learn (Sep 2022 – Oct 2022)  
-  •	Identified key brain biomarkers for Alzheimer’s diagnosis by applying supervised (RF, SVM) and unsupervised (PCA, k-means, NMF) methods on neuroimaging data, highlighting hippocampal volume as a top predictor.  
 
 ---
 
