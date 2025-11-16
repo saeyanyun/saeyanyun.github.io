@@ -17,8 +17,8 @@ author_profile: true
 • Improved CNN accuracy by 18% via dropout regularization and deeper architectures, outperforming RF and SVM models on plant disease image classification. 
 
 **4. Predict COVID-19 Cases Using Amazon Reviews** | R, SPSS *(Mar 2023 – Mar 2023)*  
-• Replicated Beauchamp (2020)'s time-series study that analyzed Amazon candle reviews to track COVID-19 case trends. 
-• Applied linear regression and time-series modeling to examine whether weekly "no smell" reviews predict COVID case counts in the U.S. 
+• Replicated Beauchamp (2020)'s time-series study that analyzed Amazon candle reviews to track COVID-19 case trends. <br>
+• Applied linear regression and time-series modeling to examine whether weekly "no smell" reviews predict COVID case counts in the U.S. <br>
 • Validated the original findings that "no smell" review frequency correlates with pandemic waves, highlighting how user-generated data can serve as real-time health indicators.
 
 **5. Prediction of Alzheimer’s Disease Causes** | Python, Scikit-learn *(Sep 2022 – Oct 2022)*  
