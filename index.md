@@ -73,7 +73,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Selected Additional Projects
-- **A/B Test: Unser Retention Analysis** | [Code](https://github.com/saeyanyun/causal-ab-test-user-retention) | Python, statsmodels, Seaborn (Nov 2025 – Nov 2025)  
+- **A/B Test: User Retention Analysis** | [Code](https://github.com/saeyanyun/causal-ab-test-user-retention) | Python, statsmodels, Seaborn (Nov 2025 – Nov 2025)  
   •	Estimated the causal effect of gate placement (level 30 vs. 40) on user retention in a 90k-player A/B experiment, finding no meaningful Day-1 impact and only a negligible Day-7 reduction using two-proportion z-tests and effect size metrics.  
 
 - **Loan Approval Prediction** | [Code](https://github.com/saeyanyun/loan.approval.pred.saeyan) | Python, Scikit-learn, PyTorch (Sep 2024 – Oct 2024)  
