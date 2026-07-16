@@ -9,7 +9,7 @@ permalink: /
 
 Hi, I'm Saeyan Yun. I am a Ph.D. candidate in Measurement and Statistics at Florida State University (FSU). 
 
-I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/citations?user=brgMxQwAAAAJ&hl=en&oi=ao) and [Dr. Qian (Jackie) Zhang](https://scholar.google.com/citations?user=3Op7FwQAAAAJ&hl=en). I also work as an intern in the Psychometric Team at the Florida Department of Education (FLDOE) under a contract with FSU and FLDOE.  
+I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/citations?user=brgMxQwAAAAJ&hl=en&oi=ao) and [Dr. Russell G. Almond](https://scholar.google.com/citations?user=1ZTrIBcAAAAJ&hl=en&oi=ao). I also worked as an intern in the Psychometric Team at the Florida Department of Education (FLDOE) under a contract with FSU and FLDOE.  
 
 ---
 
@@ -22,14 +22,14 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Education
 - Ph.D., Measurement & Statistics (Minor in Statistics), Florida State University, 2020 - Present.   
-- M.S., Measurement & Statistics, Florida State University, 2020 - 2023.
-- M.A., Education (Educational Psychology), Ewha Womans University, 2015 - 2018.
-- B.A., Education (Minor in Psychology), Ewha Womans University, 2011 - 2015. 
+- M.S., Measurement & Statistics, Florida State University, 2023.
+- M.A., Education (Educational Psychology), Ewha Womans University, 2018.
+- B.A., Education (Minor in Psychology), Ewha Womans University, 2015. 
 
 ---
 
 ## Professional Experience
-- **Psychometric Intern** - Florida Department of Education (FLDOE), May 2022 – present
+- **Psychometric Intern** - Florida Department of Education (FLDOE), May 2022 – May 2026
   - Ensured accuracy of large-scale state assessments by replicating and validating statistical analyses for Florida students, in collaboration with psychometricians from four different testing firms and key stakeholders.  
   - Communicated complex psychometric terms and results to a non-technical audience to support data-informed decision-making.   <br>
 (This internship is part of a graduate assistantship under a contract between Florida State University and the Florida Department of Education.)
