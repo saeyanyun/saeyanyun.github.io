@@ -56,11 +56,11 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 ---
 
 ## Selected Conferences / Talks  
-- Yun, S. (2026, July). MetaBART: A semiparametric Bayesian sum-of-trees method for identifying important moderators in meta-analysis. Poster presentation at International Meeting of the Psychometric Society (IMPS), Seoul, South Korea.  <br>
+- Yun, S. (2026, July). _MetaBART: A semiparametric Bayesian sum-of-trees method for identifying important moderators in meta-analysis._ Poster presentation at International Meeting of the Psychometric Society (IMPS), Seoul, South Korea.  <br>
   - Developed MetaBART by integrating Bayesian Additive Regression Trees (BART) into random-effects meta-regression.
   - Evaluated its performance across diverse meta-analytic conditions through a comprehensive simulation study. 
 
-- Yun, S. (2026, June). MetaBART: Semiparametric Bayesian sum-of-trees in meta-analysis. Lightning talk at Society for Research Synthesis Methodology (SRSM), Crete, Greece.  <br>
+- Yun, S. (2026, June). _MetaBART: Semiparametric Bayesian sum-of-trees in meta-analysis._ Lightning talk at Society for Research Synthesis Methodology (SRSM), Crete, Greece.  <br>
   - Demonstrated the application of MetaBART using a real-world meta-analysis dataset.
   - Compared MetaBART with traditional univariate meta-regression to illustrate how permutation-based moderator importance identifies key moderators. 
 
