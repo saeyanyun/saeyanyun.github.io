@@ -1,5 +1,3 @@
-<img width="468" height="63" alt="image" src="https://github.com/user-attachments/assets/e6fbd899-2603-4447-8de5-1bdba6389ea3" />---
-permalink: /publications/
 title: "Publications / Conferences" 
 layout: single
 author_profile: true
