@@ -19,6 +19,7 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 3. Collaborating with applied researchers to understand students' behaviors in an online learning setting ([Augmented Reality](https://link.springer.com/article/10.1007/s11423-024-10385-7) and [Digital Distraction](https://scholarworks.bgsu.edu/engineering_pub/2/)). 
 
 **Research Keywords:** Machine Learning • Meta-Analysis • Bayesian Statistics • Psychometrics
+
 ---
 
 ## Education
