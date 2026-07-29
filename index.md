@@ -57,7 +57,13 @@ I am currently working with [Dr. Betsy Jane Becker](https://scholar.google.com/c
 
 ## Selected Conferences / Talks  
 - Yun, S. (2026, July). MetaBART: A semiparametric Bayesian sum-of-trees method for identifying important moderators in meta-analysis. Poster presentation at International Meeting of the Psychometric Society (IMPS), Seoul, South Korea.  <br>
+  - Developed MetaBART by integrating Bayesian Additive Regression Trees (BART) into random-effects meta-regression.
+  - Evaluated its performance across diverse meta-analytic conditions through a comprehensive simulation study. 
+
 - Yun, S. (2026, June). MetaBART: Semiparametric Bayesian sum-of-trees in meta-analysis. Lightning talk at Society for Research Synthesis Methodology (SRSM), Crete, Greece.  <br>
+  - Demonstrated the application of MetaBART using a real-world meta-analysis dataset.
+  - Compared MetaBART with traditional univariate meta-regression to illustrate how permutation-based moderator importance identifies key moderators. 
+
 - Li, W., Yun, S., Yao, Y., Morshed, M. N., Velasquez, G., Ming, J., Luo, Y., Binici, S., Yang, Y., & Becker, B. J. (2025, April). _Evaluating intersectional DIF via logistic regression: A simulation study._ Poster presentation at American Educational Research Association (AERA), Denver, CO, United States.  <br>
   - Suggested a unified multivariate Logistic Regression (LR) model to detect intersectional DIF.  <br> 
   - Imbalanced sample-size patterns and number of DIF items had little impact on bias detection, given the same ability distributions, and varied ability distributions had a major impact on detection, given the same sample-size patterns and number of DIF items.  <br>
